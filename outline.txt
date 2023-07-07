@@ -5,10 +5,7 @@ i completed my hsc in 2021
 from amanullah university
 i have completed my ss in 2018-19
 from bhandaria vihari pilot high school
-<<<<<<< HEAD
-i came dhaka from my hometown
-in 2022.
-=======
 i live in bhandaria, which is a upzilla
 of pirojpur zilla
->>>>>>> ec76617ba41bf447acc208b8dd8c3ff051a357e0
+i came dhaka from my hometown
+in 2022.
